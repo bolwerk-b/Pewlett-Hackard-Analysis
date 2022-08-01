@@ -9,14 +9,14 @@ Preparing Pewlett-Hackard for the upcoming for the Silver-Tsunami (mass retireme
 - Software: PostgresSQL, pgAdmin, QuickDatabase Diagrams
 
 ## Results: 
-- Pewlett-Hackard needs to prepare for 72,458 employees to retire in the near future. :golfing: ![Retirement Titles](retirement_titles.png)
+- Pewlett-Hackard needs to prepare for 72,458 employees to retire in the near future.![Retirement Titles](retirement_titles.png)
 
 - Senior Engineer (losing 25,916), and Senior Staff (losing 24,926) combined lose 50,842 people which is 70% of the retiring total.![Retiring TItles](retiring_titles.png)
 
 
-- There are an eligible 1,500 employees for the mentorship program to fill the retiring spot. :card_index:![Mentorship Eligibility](mentorship_eligibility.png)
+- There are an eligible 1,500 employees for the mentorship program to fill the retiring spot.![Mentorship Eligibility](mentorship_eligibility.png)
 
-- Immediate interviewing/training must occur in order for Pewlett-Hackard to maintain operational standards.:mortar_board:
+- Immediate interviewing/training must occur in order for Pewlett-Hackard to maintain operational standards.
 
 ## Summary: 
 As the wave or retirement begins there will be approx. 70,000 positions open for hiring and training. Recommendation for HR to work with department heads to prepare materials for interviewing/hiring ideal candidates base on their skill-set.
